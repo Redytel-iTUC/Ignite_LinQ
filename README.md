@@ -47,3 +47,5 @@ Open both projects with your Visual Studio and start the Node1 project and then 
 We publish this example due to the small number of examples available about the subject, hoping it will help anyone wants to practice it.
 
 In the near future, tests will be carried out to check the performance.
+
+I.A.
